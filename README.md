@@ -1,3 +1,5 @@
+Task: Training a CNN to classify toxic text
+
 Packages: numpy, pandas, scikit-learn, tensorflow
 
 Model: CNN with 1D Convolutions
